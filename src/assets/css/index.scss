@@ -1,0 +1,12 @@
+/*
+ * @Author: songyang 
+ * @Date: 2019-02-16 19:14:16 
+ * @Desc: 全局 .scss 文件出口
+ * @Last Modified by: songyang
+ * @Last Modified time: 2019-02-23 19:23:07
+ */
+
+ //elementUi主题
+@import './components/mint-theme.scss';
+//自定义主题
+@import './components/custom-theme.scss';
