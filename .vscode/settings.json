@@ -1,3 +1,4 @@
 {
-  "cssrem.rootFontSize": 20
+  "cssrem.rootFontSize": 20,
+  "git.ignoreLimitWarning": true
 }
