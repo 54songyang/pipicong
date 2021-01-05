@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cube-ui": "^1.12.19",
     "es6-promise": "^4.2.5",
     "less": "^3.9.0",
